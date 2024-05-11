@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: rajyavanshi@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a scienece student but also have interest in poetry..
+- ⚡ Fun fact: I am a science student but also have interest in poetry..
 
 <!---
 rajyavanshi/rajyavanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
