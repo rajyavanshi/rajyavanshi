@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajyavanshi
-- 👀 I’m interested in coding and web development..
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in coding and mathematics..
+- 🌱 I’m currently learning MAchine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail: rajyavanshi@gmail.com
 - 😄 Pronouns: ...
