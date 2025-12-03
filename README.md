@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @rajyavanshi
-- 👀 I’m interested in coding and mathematics..
-- 🌱 I’m currently learning MAchine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail: rajyavanshi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a science student but also have interest in poetry..
+👋 Hi, I'm Suraj
 
-<!---
-rajyavanshi/rajyavanshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 ECE Undergrad @ BIT Mesra
+
+🔭 Aspiring Quant | ML & Data Science Enthusiast
+
+📊 Passionate about probability, stochastic processes, algorithms, and quantitative finance
+
+🌱 Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes (PhD-style)
+
+🧠 Working on projects in Python, C++, Finance, Data Analysis & Web Dev
+
+💡 Love simplifying tough mathematical concepts into intuition-driven ideas
+
+✍️ Fun fact: I write poetry to balance out all the math
