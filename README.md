@@ -8,7 +8,7 @@
 
 🌱 Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes (PhD-style)
 
-🧠 Working on projects in Python, C++, Finance, Data Analysis & Web Dev
+🧠 Working on projects in Python, C++, Finance and Data Analysis 
 
 💡 Love simplifying tough mathematical concepts into intuition-driven ideas
 
