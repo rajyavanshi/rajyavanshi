@@ -1,15 +1,14 @@
-👋 Hi, I'm Suraj
+Hi, I'm Suraj
 
-🎓 ECE Undergrad @ BIT Mesra
+ECE Undergrad @ BIT Mesra
+                                           Aspiring Quant | ML & Data Science Enthusiast
 
-🔭 Aspiring Quant | ML & Data Science Enthusiast
+Passionate about probability, stochastic processes, algorithms, and quantitative finance
 
-📊 Passionate about probability, stochastic processes, algorithms, and quantitative finance
+Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes (PhD-style)
 
-🌱 Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes (PhD-style)
+Working on projects in Python, C++, Finance and Data Analysis 
 
-🧠 Working on projects in Python, C++, Finance and Data Analysis 
+ Love simplifying tough mathematical concepts into intuition-driven ideas
 
-💡 Love simplifying tough mathematical concepts into intuition-driven ideas
-
-✍️ Fun fact: I write poetry to balance out all the math
+ Fun fact: I read poetry to balance out all the math
