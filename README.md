@@ -5,7 +5,7 @@ ECE Undergrad @ BIT Mesra
 
 Passionate about probability, stochastic processes, algorithms, and quantitative finance
 
-Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes (PhD-style)
+Currently learning Measure-Theoretic Probability, ML, and Stochastic Processes .
 
 Working on projects in Python, C++, Finance and Data Analysis 
 
