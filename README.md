@@ -99,7 +99,11 @@ Core engineering domains I work with:
 
 # GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajyavanshi&theme=tokyonight&margin-w=10&margin-h=10"/>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajyavanshi&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
 
 ---
 
@@ -121,9 +125,11 @@ Core engineering domains I work with:
 
 ---
 
-# Contribution Snake
+#  Contribution Snake
 
-<img src="https://github.com/rajyavanshi/rajyavanshi/blob/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajyavanshi/rajyavanshi/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
