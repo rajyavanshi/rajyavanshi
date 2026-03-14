@@ -1,103 +1,133 @@
-# Hi 👋 I'm Suraj Prakash
+# Suraj Prakash
 
-🎓 **Electronics & Communication Engineering Undergraduate**
-📍 **BIT Mesra, Ranchi**
+Electronics & Communication Engineering Undergraduate
+BIT Mesra, Ranchi
 
-💡 **Aspiring Quantitative Researcher | Machine Learning & Data Science Enthusiast**
+Aspiring **Quantitative Researcher** interested in the intersection of **mathematics, algorithms, stochastic processes, and financial markets**.
 
----
-
-## 🚀 About Me
-
-I am deeply interested in the intersection of **mathematics, algorithms, and financial markets**.
-
-My primary focus is building strong theoretical foundations and applying them to **quantitative finance, machine learning, and data-driven systems**.
-
-* 📊 Passionate about **Probability, Stochastic Processes, and Quantitative Finance**
-* 🧠 Interested in **Algorithms, Mathematical Modeling, and Data Analysis**
-* 🔬 Currently studying **Measure-Theoretic Probability, Stochastic Processes, and Machine Learning**
-* 💻 Building projects using **Python, C++, Finance, and Data Analysis**
-* ✨ I enjoy simplifying **complex mathematical ideas into intuitive insights**
+I enjoy working on problems involving **probability, modeling uncertainty, algorithmic thinking, and data-driven systems**.
 
 ---
 
-# 🌐 Connect With Me
+# Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-rajyavanshi-black?style=for-the-badge\&logo=github)](https://github.com/rajyavanshi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Prakash-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/suraj-prakash-2527ab27a/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-rajyavanshi-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/rajyavanshi/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-rajyavanshi-blue?style=for-the-badge\&logo=codeforces)](https://codeforces.com/profile/rajyavanshi)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajyavanshi-green?style=for-the-badge\&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/rajyavanshi)
+<a href="https://github.com/rajyavanshi">GitHub</a> • <a href="https://www.linkedin.com/in/suraj-prakash-2527ab27a/">LinkedIn</a> • <a href="https://leetcode.com/u/rajyavanshi/">LeetCode</a> • <a href="https://codeforces.com/profile/rajyavanshi">Codeforces</a> • <a href="https://www.geeksforgeeks.org/profile/rajyavanshi">GeeksforGeeks</a>
 
 ---
 
-# 🧰 Tech Stack
+# Programming & Scientific Computing
 
-### Languages
+<p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
-### Data Science
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 
-# 📊 GitHub Stats
+</p>
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyavanshi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavanshi\&layout=compact\&theme=tokyonight)
+Libraries commonly used for **data analysis, modeling, and machine learning**.
 
 ---
 
-# 🏆 GitHub Trophies
+# Quantitative & Data Tools
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rajyavanshi\&theme=tokyonight\&margin-w=10)
-
----
-
-# 📈 GitHub Activity Graph
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajyavanshi\&theme=tokyo-night)
-
----
-
-# 💻 Competitive Programming
-
-## LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajyavanshi?theme=dark\&font=Karma)
+* Financial Data Analysis
+* Time Series Analysis
+* Statistical Modeling
+* Machine Learning
+* Data Visualization
+* Market Data Pipelines
 
 ---
 
-## Codeforces
+# Mathematical Foundations
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rajyavanshi)
+Areas of mathematics I actively study and apply:
+
+* Probability Theory
+* Measure-Theoretic Probability
+* Stochastic Processes
+* Linear Algebra
+* Matrix Theory
+* Calculus
+* Real Analysis
+* Discrete Mathematics
+* Optimization Methods
+* Numerical Methods
+
+These areas form the **theoretical backbone of quantitative finance and machine learning**.
 
 ---
 
-# 🔥 Coding Streak
+# Engineering & Systems
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajyavanshi\&theme=tokyonight)
+Core engineering domains I work with:
+
+* Digital Signal Processing (DSP)
+* Signals and Systems
+* Control Theory
+* System Modeling
+* Mathematical Modeling of Physical Systems
 
 ---
 
-# 🐍 Contribution Snake
+# GitHub Stats
 
-![snake gif](https://github.com/rajyavanshi/rajyavanshi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajyavanshi&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavanshi&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎯 Current Focus
+# GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavanshi&theme=tokyo-night"/>
+
+---
+
+# GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajyavanshi&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+---
+
+# Competitive Programming
+
+### LeetCode
+
+<img src="https://leetcard.jacoblin.cool/rajyavanshi?theme=dark&font=Karma"/>
+
+### Codeforces
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rajyavanshi"/>
+
+---
+
+# Coding Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajyavanshi&theme=tokyonight"/>
+
+---
+
+# Contribution Snake
+
+<img src="https://github.com/rajyavanshi/rajyavanshi/blob/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# Current Focus
 
 * Quantitative finance systems
 * Stochastic modeling
@@ -107,12 +137,8 @@ My primary focus is building strong theoretical foundations and applying them to
 
 ---
 
-# 🌱 Philosophy
+# Personal Note
 
-> *Investing in knowledge compounds just like capital.*
+I enjoy **breaking complex mathematical ideas into intuitive concepts**.
 
----
-
-# ✨ Fun Fact
-
-I read **poetry** to balance out all the mathematics.
+When I am not studying mathematics or programming, I often read **poetry**.
