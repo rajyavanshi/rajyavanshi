@@ -101,7 +101,7 @@ Core engineering domains I work with:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajyavanshi&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajyavanshi&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
