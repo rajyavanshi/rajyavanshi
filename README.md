@@ -128,7 +128,7 @@ Core engineering domains I work with:
 #  Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rajyavanshi/rajyavanshi/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/rajyavanshi/rajyavanshi/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
